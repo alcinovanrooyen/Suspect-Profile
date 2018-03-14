@@ -1,0 +1,26 @@
+{
+  "name": "susp_prof_new",
+  "description": "to record data of suspects and criminals",
+  "main": "index.js",
+  "authors": [
+    "Alcino Van Rooyen"
+  ],
+  "license": "UNLICENSED",
+  "keywords": [
+    "suspect",
+    "profile"
+  ],
+  "homepage": "home",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1"
+  }
+}
